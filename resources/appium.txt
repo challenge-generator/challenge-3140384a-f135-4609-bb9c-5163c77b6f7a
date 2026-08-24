@@ -1,0 +1,5 @@
+platformName=Android
+platformVersion=11.0
+deviceName=AndroidDevice
+appPackage=com.fintech.app
+appActivity=.MainActivity
