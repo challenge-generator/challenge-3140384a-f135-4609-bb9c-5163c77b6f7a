@@ -1,0 +1,10 @@
+com/fintech/app/ui/DashboardPage.class
+com/fintech/app/tasks/InvertirEnFondo.class
+com/fintech/app/questions/ElMensajeDeInversion.class
+com/fintech/app/tests/PortfolioTest.class
+com/fintech/app/ui/LoginPage.class
+com/fintech/app/tasks/IniciarSesion.class
+com/fintech/app/questions/ElMensajeDeError.class
+com/fintech/app/questions/ElSaldoDeCartera.class
+com/fintech/app/tests/LoginTest.class
+com/fintech/app/tests/TransactionTest.class
