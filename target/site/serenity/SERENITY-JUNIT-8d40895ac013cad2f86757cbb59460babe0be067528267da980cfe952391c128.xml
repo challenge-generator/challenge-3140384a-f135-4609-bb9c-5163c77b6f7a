@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="com.fintech.app.tests.LoginTest" skipped="0" tests="2" time="15.14" timestamp="2026-11-06 02:53:42"><testcase classname="com.fintech.app.tests.LoginTest" name="Test login credenciales incorrectas"/><testcase classname="com.fintech.app.tests.LoginTest" name="Test login exitoso"/></testsuite>

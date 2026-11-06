@@ -1,0 +1,20 @@
+-------------------------------------------------------------------------------
+Test set: com.fintech.app.tests.PortfolioTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 6.682 s <<< FAILURE! - in com.fintech.app.tests.PortfolioTest
+com.fintech.app.tests.PortfolioTest.testConsultarSaldoDisponible  Time elapsed: 6.634 s  <<< ERROR!
+org.openqa.selenium.NoSuchElementException: 
+An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'JUAN-GIRALDO.local', ip: 'fe80:0:0:0:c18:c1ac:8b10:a1d0%en0', os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '26.6.2', java.version: '26.0.1'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {appActivity: .MainActivity, appPackage: com.example.fintechmock, automationName: UiAutomator2, databaseEnabled: false, desired: {appActivity: .MainActivity, appPackage: com.example.fintechmock, automationName: UiAutomator2, deviceName: AndroidDevice, platformName: android}, deviceApiLevel: 37, deviceManufacturer: Google, deviceModel: sdk_gphone16k_arm64, deviceName: emulator-5554, deviceScreenDensity: 420, deviceScreenSize: 1080x2400, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 2.625, platform: LINUX, platformName: Android, platformVersion: 17, statBarHeight: 128, takesScreenshot: true, viewportRect: {height: 2272, left: 0, top: 128, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: c74482d1-f358-47a8-b469-412e752d76e0
+*** Element info: {Using=id, value=com.example.fintechmock:id/tv_balance_amount}
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'JUAN-GIRALDO.local', ip: 'fe80:0:0:0:c18:c1ac:8b10:a1d0%en0', os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '26.6.2', java.version: '26.0.1'
+Driver info: driver.version: AppiumDriver
+	at com.fintech.app.tests.PortfolioTest.testConsultarSaldoDisponible(PortfolioTest.java:46)
+
